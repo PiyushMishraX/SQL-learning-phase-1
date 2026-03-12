@@ -1,0 +1,1 @@
+-- alter table addresses drop foreign key fk_user;
