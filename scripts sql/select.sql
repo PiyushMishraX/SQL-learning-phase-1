@@ -1,0 +1,3 @@
+-- select * from users where salary > 60000 order by created_at desc limit 5;
+-- select * from users order by salary desc;
+-- select * from users where salary between 50000 and  70000 order by created_at desc;
